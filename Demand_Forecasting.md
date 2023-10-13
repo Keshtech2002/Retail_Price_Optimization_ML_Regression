@@ -1,4 +1,6 @@
 # Demand Forecasting
+![Demand Forecasting](https://miro.medium.com/v2/resize:fit:828/format:webp/0*Z3WlGtEAGcCxudr_.jpg)
+
 Demand forecasting is a crucial process in business and supply chain management that involves predicting the future demand for a product or service. This forecasting is essential for making informed decisions about production, inventory management, pricing, and resource allocation. When coupled with AI (Artificial Intelligence) and ML (Machine Learning) methods, demand forecasting becomes even more powerful and data-driven. Let's dive into the details of demand forecasting and how AI and ML play a significant role in this process:
 
 1. Data-Driven Approach:

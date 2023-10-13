@@ -1,6 +1,6 @@
 # Predictive Analystics
 
-![Predictive Analytics for Price Optimisation](C:\Users\HP\Documents\KESHTECH\DSML\Projects\Retail_Price_Optimization_ML_Regression\Predictive Analytics for Price Optimisation.webp)
+![Predictive Analytics for Price Optimisation](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*p_hP8-XIQNtbG2QC.png)
 
 Predictive analytics is a powerful approach that uses statistical methods and machine learning techniques to analyze historical data and make predictions about future outcomes. In the context of business, particularly in the realm of pricing, predictive analytics plays a crucial role in helping organizations optimize pricing strategies by examining customer behavior and various factors that impact sales. Here, we'll explore pricing in detail through the lens of predictive analytics:
 

@@ -1,4 +1,5 @@
 # Price Optimization
+![Price Optimization]()
 
 #### What is Price Optimization?
 One of the ways machine learning has helped businesses is price optimization. It addresses a lot of problems that retailers face in their businesses
@@ -20,11 +21,11 @@ Psychological pricing is a common strategy used to leverage these psychological 
 - **Premium Pricing:** Businesses set their prices higher because they have a unique product or brand that no one can rival. It is possible to use this strategy if you have a significant competitive advantage and are confident you can charge a higher price without being undercut by similar products. In order to create a perception that products are worth the higher price tag, a company must work hard in all directions, such as packaging, decor in the store, and marketing strategy to create the perception that products are worth the higher price.
 
 #### Price Optimization and Automation
-- **Dynamic Pricing:** It involves adjusting the price online, based on changes in demand, supply, or other market conditions. According to AI and ML technologies, the analysis of large volumes of data has become available. See [Dynamic_Pricing.md](C:\Users\HP\Documents\KESHTECH\DSML\Projects\Retail_Price_Optimization_ML_Regression\Dynamic_Pricing.md)
+- **Dynamic Pricing:** It involves adjusting the price online, based on changes in demand, supply, or other market conditions. According to AI and ML technologies, the analysis of large volumes of data has become available. See [Dynamic_Pricing.md](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/Dynamic_Pricing.md)
 
-- **Predictive Analytics:** As a result of the symbiosis between statistical methods and machine learning methods, predictive analytics produces future results. Business owners use predictive analytics to optimize pricing based on customer behavior and other factors affecting sales. They analyze historical data. See [Predictive_Analytics.md]()
+- **Predictive Analytics:** As a result of the symbiosis between statistical methods and machine learning methods, predictive analytics produces future results. Business owners use predictive analytics to optimize pricing based on customer behavior and other factors affecting sales. They analyze historical data. See [Predictive_Analytics.md](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/Predictive_Aanalysis.md)
 
-- **Demand Forecasting:** A Pop demand forecast is based on historical data, market trends, and a number of other factors that influence sales. With the help of artificial intelligence and machine learning, we can analyze a large amount of data and identify patterns automatically. We can use that information to predict potential demand and optimize our strategies and prices. See [Demand_Forecasting]()
+- **Demand Forecasting:** A Pop demand forecast is based on historical data, market trends, and a number of other factors that influence sales. With the help of artificial intelligence and machine learning, we can analyze a large amount of data and identify patterns automatically. We can use that information to predict potential demand and optimize our strategies and prices. See [Demand_Forecasting](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/Demand_Forecasting.md)
 
 #### Benefits of Machine Learning for Price Optimisation
 Using Python-based machine learning for pricing optimization automates the entire process. You'll invest your time in setting up a retail price optimization project with factors relevant to your pricing strategy, such as historical sales, seasons, weather, inventory, product features, and marketing.

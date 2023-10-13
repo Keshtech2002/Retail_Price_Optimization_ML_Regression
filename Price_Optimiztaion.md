@@ -1,5 +1,5 @@
 # Price Optimization
-![Price Optimization]()
+![Price Optimization](https://miro.medium.com/v2/resize:fit:828/format:webp/0*2VTTzE5bQtI3pH_V.png)
 
 #### What is Price Optimization?
 One of the ways machine learning has helped businesses is price optimization. It addresses a lot of problems that retailers face in their businesses

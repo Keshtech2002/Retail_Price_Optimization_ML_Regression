@@ -20,4 +20,10 @@ Provided with Restaurant Cafe data , we can leverage price elasticity with histo
 ### Files and Description
 | Files | Desrcription |
 | ----- | ------------ |
-| File1 | File 1 description |
+| [Cafe_Price_Optimazation.ipynb](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/Cafe_Price_Optimazation.ipynb) | Price optimization notebook |
+| [Demand_Forecasting.md](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/Demand_Forecasting.md) | Demand forecasting |
+| [Dynamic_Pricing.md](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/Dynamic_Pricing.md) | Dynamic pricing |
+| [Predictive_Aanalysis.md](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/Predictive_Aanalysis.md) | Predictive analysis |
+| [Price_Optimiztaion.md](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/Price_Optimiztaion.md) | Price Optimization |
+| [PriceElasticity.py](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/PriceElasticity.py) | functions to help in calcuating price elasticity |
+| [OptimalPrice.py](https://github.com/Keshtech2002/Retail_Price_Optimization_ML_Regression/blob/main/OptimalPrice.py) | functions to help calculate optimal price |
